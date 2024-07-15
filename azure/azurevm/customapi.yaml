@@ -1,6 +1,6 @@
 apiVersion: compute.example.com/v1alpha1
 kind: VirtualMachine
 metadata:
-  name: my-vm
+  name: my-vm-2
 spec: 
   location: "West Europe"
