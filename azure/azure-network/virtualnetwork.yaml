@@ -1,7 +1,7 @@
 apiVersion: network.azure.upbound.io/v1beta1
 kind: VirtualNetwork
 metadata:
-  name: crossplane-quickstart-network
+  name: a1-crossplane-network
 spec:
   forProvider:
     addressSpace:
