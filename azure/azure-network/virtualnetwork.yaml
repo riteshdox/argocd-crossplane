@@ -1,7 +1,7 @@
 apiVersion: network.azure.upbound.io/v1beta1
 kind: VirtualNetwork
 metadata:
-  name: a1-network
+  name: a1-network-local
 spec:
   forProvider:
     addressSpace:
